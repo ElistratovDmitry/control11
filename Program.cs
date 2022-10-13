@@ -24,3 +24,4 @@ PrintArray(arrayStart);
 GetArrayEnd(arrayStart, arrayEnd);
 System.Console.WriteLine("итоговый массив - элементы длиной меньше или равно 3");
 PrintArray(arrayEnd);
+
